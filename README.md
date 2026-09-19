@@ -16,7 +16,7 @@
 
 A Data Professional with a strong background in Mathematics and hands-on expertise in data analysis, statistics, and machine learning. I leverage my mathematical foundation to build structured, accurate, and actionable data solutions that solve real business problems and support strategic decision-making.
 
-- 🎓 **M.Sc. in Mathematics** from **Universitas Indonesia** (2023 – 2025)
+- 🎓 **M.Sc. in Mathematics** from **Universitas Indonesia**
 - 🎓 **B.Sc. in Mathematics** from **UIN Sunan Gunung Djati Bandung**
 - 🔭 **Currently Focusing On:** Data Analysis, Machine Learning, Statistics, and Business Intelligence.
 
