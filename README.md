@@ -39,7 +39,7 @@ A Data Professional with a strong background in Mathematics and hands-on experti
 
 ---
 
-## 📜 Certifications & Training
+## 📜 Certifications
 
 - **Google Data Analytics Professional Certificate**
 - **Data Analyst Professional Academy** (Digital Talent Scolarship by KOMINFO)
