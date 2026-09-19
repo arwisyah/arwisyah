@@ -47,16 +47,6 @@ A Data Professional with a strong background in Mathematics and hands-on experti
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Domain | Tech Stack | Description & Link |
-| :--- | :--- | :--- | :--- |
-| **Cyclistic Bike Share Trip Data Analysis** | Data Analyst | R, Tableau | End-to-end data analysis project exploring user behavior patterns between casual riders and annual members to drive conversion strategies. <br>[💻 View Analysis on Kaggle](https://www.kaggle.com/code/arwisyah/cyclistic-bike-share-trip-data-analysis) |
-| **XGBoost Cox Survival Analysis for Preeclampsia** | Data Scientist (Machine Learning and Statistical Model) | Excel, R | Machine learning model combining XGBoost and Cox proportional hazards for time-to-event risk estimation in preeclampsia research. <br>[💻 GitHub Repository](https://github.com/arwisyah/xgb_cox_preeclampsia) |
-| **Pneumonia Detection App** | Data Scientist (Deep Learning and Model Deployment) | Python, PyTorch, Gradio | Medical image classification web application for detecting pneumonia from chest X-ray images, deployed on Hugging Face. <br>[🔗 Live Demo Space](https://huggingface.co/spaces/arwisyah/pneumonia_detection_space) |
-
----
-
 ## 📬 Connect with Me
 
 - 🌐 **LinkedIn:** [linkedin.com/in/arwisyah](https://www.linkedin.com/in/arwisyah)
