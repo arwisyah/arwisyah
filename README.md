@@ -14,15 +14,11 @@
 
 ## 📌 About Me
 
-An experienced professional with **nearly 8 years of background** as an Administrative Coordinator in the healthcare industry, currently transitioning toward data-focused roles. 
-
-Beyond my previous administrative responsibilities, I actively applied my mathematics and programming background to streamline reporting processes, making them more accurate, structured, and actionable for stakeholders. My passion for Data Analysis & Science is deeply rooted in my educational background in Mathematics (specializing in Data Science & Computational Mathematics) and hands-on experience with statistics, machine learning, and database systems.
+A Data Professional with a strong background in Mathematics and hands-on expertise in data analysis, statistics, and machine learning. I leverage my mathematical foundation to build structured, accurate, and actionable data solutions that solve real business problems and support strategic decision-making.
 
 - 🎓 **M.Sc. in Mathematics** from **Universitas Indonesia** (2023 – 2025)
 - 🎓 **B.Sc. in Mathematics** from **UIN Sunan Gunung Djati Bandung**
 - 🔭 **Currently Focusing On:** Data Analysis, Machine Learning, Statistics, and Business Intelligence.
-- 💼 **Looking For:** Full-time or project-based opportunities as a **Data Analyst** or **Data Scientist**.
-- 📍 **Location:** Banjarbaru, South Kalimantan, Indonesia.
 
 ---
 
