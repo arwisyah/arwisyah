@@ -34,8 +34,8 @@ A Data Professional with a strong background in Mathematics and hands-on experti
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### **Specialties & Domain Expertise**
-- **Data Science & ML:** Machine Learning, Computational Mathematics, Statistical Analysis, Algorithms & Data Structures.
-- **Data Engineering & Analysis:** Data Cleaning, EDA (Exploratory Data Analysis), Database Management, Business Reporting.
+- **Data Science:** Machine Learning, Computational Mathematics, Statistical Analysis, Algorithms & Data Structures.
+- **Data Analysis:** Data Cleaning, EDA (Exploratory Data Analysis), Database Management, Business Reporting.
 
 ---
 
