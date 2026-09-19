@@ -60,7 +60,6 @@ A Data Professional with a strong background in Mathematics and hands-on experti
 ## 📬 Connect with Me
 
 - 🌐 **LinkedIn:** [linkedin.com/in/arwisyah](https://www.linkedin.com/in/arwisyah)
-- 📊 **Tableau Public:** [Arya Wira Syahdwinata](https://public.tableau.com/app/profile/arya.wira.syahdwinata)
 - ✉️ **Email:** arwisyah@gmail.com
 
 ---
