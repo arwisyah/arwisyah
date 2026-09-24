@@ -14,7 +14,7 @@
 
 ## 📌 About Me
 
-A Data Professional with a strong background in Mathematics and hands-on expertise in data analysis, statistics, and machine learning. I leverage my mathematical foundation to build structured, accurate, and actionable data solutions that solve real business problems and support strategic decision-making.
+A Data Professional with a Mathematics background and hands-on experience in data analysis, statistics, and machine learning. I leverage my mathematical foundation to build structured, accurate, and actionable data solutions that solve real business problems and support strategic decision-making.
 
 - 🎓 **M.Sc. in Mathematics** from **Universitas Indonesia**
 - 🎓 **B.Sc. in Mathematics** from **UIN Sunan Gunung Djati Bandung**
