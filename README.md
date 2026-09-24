@@ -2,7 +2,7 @@
 
 # Hi there, I'm Arya Wira Syahdwinata 👋
 
-### **Data Analyst & Data Scientist | M.Sc. in Mathematics**
+### **Data Analyst & Data Scientist**
 
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arwisyah)
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/arya.wira.syahdwinata)
